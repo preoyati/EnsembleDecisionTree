@@ -1,0 +1,7 @@
+Root)->(col2<=85)->(col3<=90)->col0(sunny))->play)2)
+Root)->(col2<=85)->(col3<=90)->col0(overcast))->play)3)
+Root)->(col2<=85)->(col3<=90)->col0(rain))->col1(true))->dontplay)2)
+Root)->(col2<=85)->(col3<=90)->col0(rain))->col1(false))->play)2)
+Root)->(col2<=85)->(col3>90)->col0(sunny))->dontplay)2)
+Root)->(col2<=85)->(col3>90)->col0(overcast))->play)1)
+Root)->(col2>85)->dontplay)1)

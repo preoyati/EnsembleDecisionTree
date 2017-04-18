@@ -1,0 +1,12 @@
+sunny true play
+sunny false dontplay
+sunny false dontplay
+? true play
+overcast false play
+overcast true play
+overcast false play
+rain true dontplay
+rain true dontplay
+rain false play
+rain false play
+rain false play

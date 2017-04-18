@@ -1,0 +1,14 @@
+sunny true 75 70 play
+sunny true 80 90 dontplay
+sunny false 85 85 dontplay
+sunny false 72 95 dontplay
+sunny false 69 70 play
+overcast true 72 90 play
+overcast false 83 78 play
+overcast true 64 65 play
+overcast false 81 75 play
+rain true 71 80 dontplay
+rain true 65 70 dontplay
+rain false 75 80 play
+rain false 68 80 play
+rain false 70 96 play

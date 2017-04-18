@@ -1,0 +1,5 @@
+Root)->(col2<=3)->Iris-setosa
+Root)->(col2>3)->(col3<=1.7)->(col0<=7.2)->Iris-versicolor
+Root)->(col2>3)->(col3<=1.7)->(col0>7.2)->Iris-virginica
+Root)->(col2>3)->(col3>1.7)->(col0<=5.9)->Iris-virginica
+Root)->(col2>3)->(col3>1.7)->(col0>5.9)->Iris-versicolor
